@@ -63,11 +63,10 @@ const startApolloServer = async (typeDefs, resolvers) => {
   
   db.on('error', console.error.bind(console, 'MongoDB connection error:'))
   db.once('open', () => {
-    // app.listen(PORT || process.env.PORT, () => {
-    //   console.log(`API server running on port ${PORT}!`);
-    //   console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
-    // })
-    console.log("Connected to MongoDB Atlas!")
+    app.listen(PORT, () => {
+      console.log(`API server running on port ${PORT}!`);
+      console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
+    })
   })
   };
   
