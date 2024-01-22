@@ -17,6 +17,10 @@ A MERN stack website for an Athlete to promote their youth day camp and to allow
 ## Installation
 Open this application using the website linked below.
 
+Link to deployed website:
+
+https://yourhometownhero-d093725de416.herokuapp.com/
+
 
 ## Technology
 This application uses a React front end. MongoDB is used to store the data and the back end uses Express and Node. It is deployed using Heroku.
@@ -45,12 +49,12 @@ Images sourced from https://unsplash.com
 ## Contact
 This project was created by Valentina Guevara, Patrick Morris, Ben Yomtov and Jung Dettelback.
 
-Contact us through Patrick Morris:
-    [Patrickmorris532@gmail](mailto:Patrickmorris532@gmail.com) if you have any questions.  
+Contact me, Valentina Guevara, via email if you have any questions or concerns:
+    [vguevara0806@gmail.com](mailto:vguevara0806@gmail.com) if you have any questions.  
 
 You can see more of our work at:
-    <https://github.com/pmorris50>
     <https://github.com/Val-gee>
+    <https://github.com/pmorris50>
     <https://github.com/benyomtov>
     <https://github.com/jdettelback>
 
@@ -64,6 +68,3 @@ You can see more of our work at:
   ![screenshot](https://raw.githubusercontent.com/pmorris50/HometownHero/main/client/public/images/hometownhero8.png)
   ![screenshot](https://raw.githubusercontent.com/pmorris50/HometownHero/main/client/public/images/hometownhero9.png)
   
-  Link to deployed website:
-
-https://hometownhero.herokuapp.com/
