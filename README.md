@@ -27,8 +27,8 @@ This application uses a React front end. MongoDB is used to store the data and t
 
 To use this application on your local computer some changes must be made:
 - The proxy link in the client-side package.json must be changed to your local proxy link.
-- Run `npm i` command in terminal to install all the packages needed in both client and server folders to run the application locally.
-- Run `npm run develop` to launch the application locally.
+- Run `npm install` or `npm i` command in terminal to install all the packages needed in both client and server folders to run the application locally.
+- Run `npm run develop` to launch the application locally in development mode.
 
 
 ## Usage
