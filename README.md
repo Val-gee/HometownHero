@@ -25,6 +25,11 @@ https://yourhometownhero-d093725de416.herokuapp.com/
 ## Technology
 This application uses a React front end. MongoDB is used to store the data and the back end uses Express and Node. It is deployed using Heroku.
 
+To use this application on your local computer some changes must be made:
+- The proxy link in the client-side package.json must be changed to your local proxy link.
+- Run `npm i` command in terminal to install all the packages needed in both client and server folders to run the application locally.
+- Run `npm run develop` to launch the application locally.
+
 
 ## Usage
 This website is designed for a professional/semi-professional athlete to easily use as a platform for running their own day camp. It allows for registrations by athletes or parents and is designed to be easily customizable for different sports. The color scheme can also be adjusted to reflect team or university colors.
